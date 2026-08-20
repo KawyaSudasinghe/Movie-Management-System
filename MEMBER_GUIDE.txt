@@ -1,0 +1,27 @@
+MEMBER 3 - UI + DASHBOARD + DATABASE
+
+Your files:
+- dashboard.php
+- header.php
+- footer.php
+- css/style.css
+- js/script.js
+- database.sql
+- README.md
+
+Git branch:
+member3-ui-dashboard
+
+These are ONLY your assigned files. Do not copy the other members' PHP files into your branch.
+
+Workflow:
+git checkout main
+git pull origin main
+git checkout -b member3-ui-dashboard
+
+Copy these files into the repository, then:
+git add .
+git commit -m "Add dashboard and user interface"
+git push -u origin member3-ui-dashboard
+
+Then create a Pull Request: member3-ui-dashboard -> main.
