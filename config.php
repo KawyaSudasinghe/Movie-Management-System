@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-$host = '127.0.0.1:3307';
+$host = 'localhost';
 $db   = 'movie_management';
 $user = 'root';
 $pass = '';
