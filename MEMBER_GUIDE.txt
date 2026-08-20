@@ -1,0 +1,24 @@
+MEMBER 2 - AUTHENTICATION
+
+Your files:
+- config.php
+- login.php
+- register.php
+- logout.php
+
+Git branch:
+member2-auth
+
+These are ONLY your assigned files. Do not copy the other members' files into your branch.
+
+Workflow:
+git checkout main
+git pull origin main
+git checkout -b member2-auth
+
+Copy these files into the repository, then:
+git add .
+git commit -m "Add authentication system"
+git push -u origin member2-auth
+
+Then create a Pull Request: member2-auth -> main.
